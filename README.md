@@ -1,3 +1,4 @@
+Elatre Ludwig
 #entrainement
 
 ##titre niveau 2
@@ -13,7 +14,7 @@
 3. puce ordonnée n°3
 
 **chaine en gras**
-*chaine en italique*
+_chaine en italique_
 
 [Lien vers Google](https://www.google.com/)
 
@@ -22,6 +23,5 @@
 ```
 
 ```javascript
-let toto = "hello world"
+let toto = "hello world";
 ```
-
