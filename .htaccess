@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^golden\-fingers\.fr\,golden\-fingersfr_sjxq5813\.odns\.fr$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.golden\-fingers\.fr\,golden\-fingersfr_sjxq5813\.odns\.fr$
+RewriteRule ^/?$ "https\:\/\/golden\-fingers\.el\-dev\.fr\/" [R=301,L]
+
